@@ -1,0 +1,68 @@
+macOS icon ${options_dir}\mac\icons\icon512.png written out as 32-bit
+Windows NSIS Installer Script has been set to default due to changes in GameMaker Studio 2
+Converting GML script: ${project_dir}\scripts\url_encode\url_encode.gml
+Converted description /// @description  url_encode(string
+Converted string - line 6: '"' -> "\""
+Converted string - line 6: "'<>#%{}|\^~[]`!" -> "'<>#%{}|\\^~[]`!"
+
+Converting GML script: ${project_dir}\scripts\bl_register\bl_register.gml
+Converted description /// @description  bl_register(email,password
+
+Converting GML script: ${project_dir}\scripts\bl_login\bl_login.gml
+Converted description /// @description  bl_login(email,password
+
+Converting GML script: ${project_dir}\scripts\bl_logout\bl_logout.gml
+Converted description /// @description  bl_logout(session_token
+
+Converting GML script: ${project_dir}\scripts\bl_data_get\bl_data_get.gml
+Converted description /// @description  bl_data_get(table,limit,offset,sortBy,where
+
+Converting GML script: ${project_dir}\scripts\bl_data_get_obj\bl_data_get_obj.gml
+Converted description /// @description  bl_data_get_obj(table,objectId
+
+Converting GML script: ${project_dir}\scripts\bl_data_save\bl_data_save.gml
+Converted description /// @description  bl_data_save(table,body_map
+
+Converting GML script: ${project_dir}\scripts\bl_data_update\bl_data_update.gml
+Converted description /// @description  bl_data_update(table,objectId,body_map,where
+
+Converting GML script: ${project_dir}\scripts\bl_data_delete\bl_data_delete.gml
+Converted description /// @description  bl_data_delete(table,objectId
+
+Converting GML script: ${project_dir}\scripts\bl_file_download\bl_file_download.gml
+Converted description /// @description  bl_file_download(filepath
+
+Converting GML script: ${project_dir}\scripts\bl_file_delete\bl_file_delete.gml
+Converted description /// @description  bl_file_delete(filepath
+
+Converting GML script: ${project_dir}\scripts\bl_msg_email\bl_msg_email.gml
+Converted description /// @description  bl_msg_email(to_list,subject,text,html,attachments_list
+
+Converting GML script: ${project_dir}\scripts\bl_geo_add\bl_geo_add.gml
+Converted description /// @description  bl_geo_add(longitude,latitude,categories_list,meta_map
+
+Converting GML script: ${project_dir}\scripts\bl_geo_update\bl_geo_update.gml
+Converted description /// @description  bl_geo_update(objectId,longitude,latitude,categories_list,meta_map
+
+Converting GML script: ${project_dir}\scripts\bl_geo_delete\bl_geo_delete.gml
+Converted description /// @description  bl_geo_delete(objectId
+
+Converting GML script: ${project_dir}\scripts\bl_geo_search_cat\bl_geo_search_cat.gml
+Converted description /// @description  bl_geo_search_cat(categories,limit,offset,where,meta
+
+Converting GML script: ${project_dir}\scripts\bl_geo_search_radius\bl_geo_search_radius.gml
+Converted description /// @description  bl_geo_search_radius(latitude,longitude,radius,categories,limit,offset,where,meta
+
+Converting GML script: ${project_dir}\scripts\bl_init\bl_init.gml
+Converted description /// @description  bl_init(app_id,rest_key
+
+Converting GML script: ${project_dir}\scripts\bl_logged_in\bl_logged_in.gml
+Converted description /// @description  bl_logged_in(
+
+Converting GML script: ${project_dir}\objects\obj_backendless\Create_0.gml
+Converted description /// @description  Ini
+
+Converting GML script: ${project_dir}\objects\obj_backendless\Other_62.gml
+Converted description /// @description  Backendles
+
+Game speed set to 30
